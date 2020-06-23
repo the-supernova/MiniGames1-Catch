@@ -5,7 +5,7 @@ Making games in Javascript is cool to see but equally hectic to complete! So thi
 ## Instructions
 * Use the cursor for moving the basket left and right
 * Collect all the balls falling from the sky
-* As you collect a ball, the color of basket changes accordingly and the scoreboard on the left updates
+* As you collect a ball, the color of basket changes accordingly and the scoreboard updates
 * Game ends when you miss a ball
 * To play again, press f5 or just refresh the page
 * Enjoy!
